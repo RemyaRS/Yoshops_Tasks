@@ -1,2 +1,2 @@
 # Yoshops_Tasks
-Yoshops tasks done during internships
+Yoshops tasks done during internship
